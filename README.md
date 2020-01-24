@@ -18,3 +18,4 @@ English and Russian included, also .pot file.
 
  - All translations and scripts uses [MIT](LICENSE.MIT)
  - Source files for `/usr/bin/locale` uses [LGPL](LICENSE)
+ - https://evrone.com/ruby - Ruby development
